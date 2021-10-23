@@ -1,0 +1,60 @@
+h1 {
+	font-size: 40px;
+    color: gray;	
+}
+blockquote	{
+	color: blue;
+	font-size: 1.8em;
+	Padding-top: 1.5em;
+	Padding-right: 1em;
+	Padding-bottom: 1.5em;
+	Padding-left: 1em;
+	background-color: lightgray;
+	font-style: bold;
+	width: 400px;
+	float: left;	
+}
+#page-content	{
+	position: absolute;
+	top: 0px;
+}
+.container	{
+	width: 700px;
+	margin: 0 auto;
+	Text-align: left;
+}
+.post-heading	{
+	color: gray;
+	font-size: 2.0em;
+	margin-bottom: 0px;
+	font-style: bold;
+	position: absolute;
+	top: 125px;
+	width: 700px;
+}
+article p	{
+	text-align: left;
+	text-indent: 25px;
+	text-style: bold;
+	width: 500px;	
+}
+#main-nav	{
+	font-size: 1.8em;
+	line-height: 1.4em;
+}
+.article-thumbs	{
+	text-align: left;
+	clear: both;
+}
+.lake-palace	{
+	padding: 20px 0px 10px;
+	margin: 0 auto;
+	position: relative;
+	top: 170px;
+}
+.costume	{
+	text-align: left;
+	clear: both;
+}
+
+	
