@@ -1,0 +1,30 @@
+h1 {
+	font-size: 55px;	
+}
+.post-heading {
+	color: blue;
+	font-size: 1.7em;
+	text-align: center;	
+}
+#main-nav	{
+	font-size: 1.3em;	
+}
+#main-nav a,
+#main-nav a:visitied {
+	text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active{
+	text-decoration: underline;
+} 
+blockquote	{
+	color: #33ccff;
+	font-size: 1.3em;
+	font-style: italic;
+}
+.sports-image {
+	float: left;
+	width: 625px;
+}
+	
