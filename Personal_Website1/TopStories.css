@@ -6,9 +6,9 @@ h1 {
 	background-color: aliceblue;
 }
 .post-heading {
-	color: navy;
-	font-size: 1.9em;
-	text-align: center;	
+	color: red;
+	font-size: 1.5em;
+	text-align: left;	
 }
 #main-nav	{
 	font-size: 1.3em;	
@@ -26,20 +26,15 @@ h1 {
 	padding: 10px;
 	text-align: center;
 	position: relative;
-} 
-blockquote	{
-	color: black;
-	font-size: 1.3em;
-	font-style: italic;
 }
 .sports-image	{
-	width: 50px;
+	width: 35px;
 }
 article p	{
 	padding:10px;
 	text-align: justify;
-	column-count: 2;
-	width: 700px;
+	column-count: 1;
+	width: 400px;
 	margin: 20px
 }
 #main-nav ul li	{
@@ -60,16 +55,18 @@ article p	{
 	padding: 0px 25px;
 	width:100%;
 	margin-bottom: 30px;
-	text-align: center;
-	background-color: lightcoral;
+	text-align: left;
+	background-color: lightgrey;
 }	
 .covered	{
-	float: right;
-	font-size: 1.5em;
+	float: left;
+	font-size: 1.2em;
 	margin: 5px;
-	width: 60%;
+	width: 45%;
 }
 .logos-pro	{
 	text-align: center;
-	clear: both
+	clear: both;
+	padding: 10px 10px;
+	margin: 10px
 }
